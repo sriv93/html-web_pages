@@ -1,0 +1,12 @@
+body {
+    background-color:paleturquoise
+}
+
+label {
+     color: red;
+}
+
+.input {
+    color: palevioletred;
+    text-decoration-color: slateblue;
+}

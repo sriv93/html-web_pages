@@ -1,0 +1,18 @@
+body {
+    background-color: navajowhite;
+}
+
+h1 {
+    text-align: center;
+    border: 5px;
+    position:relative;
+    animation-name: anime;
+    animation-duration: 10s;
+    animation-delay: 1s;
+    animation-iteration-count: 30;
+    }
+
+@keyframes anime{
+    from {background-color:plum;}
+    to {background-color:teal;}
+}

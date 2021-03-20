@@ -1,0 +1,12 @@
+body {
+    background-color:gold;
+}
+h1 {
+    color: darkblue;
+}
+
+h3 {
+    color: mediumvioletred;
+    padding: 1px;
+    font-weight: 700;
+}

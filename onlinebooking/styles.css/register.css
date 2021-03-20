@@ -1,0 +1,17 @@
+body {
+    background-color:pink;
+}
+
+h1 {
+    color:darkred;
+    font-style: normal;
+}
+
+div {
+    color:indigo;
+}
+
+label {
+    color:saddlebrown;
+    text-decoration: underline;
+}

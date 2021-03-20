@@ -1,0 +1,14 @@
+body {
+    background-color: turquoise;
+}
+
+h2 {
+    color: royalblue;
+}
+
+label {
+    text-decoration: olive;
+    padding: 5px;
+    border-style:groove;
+    word-spacing: 5px;
+}
